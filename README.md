@@ -41,15 +41,11 @@ Key points:
 
 ![alt text](LED-1.jpeg)
 
----
-
-
 ## MODEL GRAPH
 
 
 
 ![alt text](<LED Graph.jpeg>)
-
 
 
 ---
