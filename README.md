@@ -46,8 +46,8 @@ Key points:
 
 ---
 
-## MODEL GRAPH
 
+## MODEL GRAPH
 ![alt text](<LED Graph.jpeg>)
 
 ---
