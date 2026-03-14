@@ -1,6 +1,9 @@
 # Voltage---Current-Characteristics-of-LED/LASER
 # Fiber Optic LED and Photo Detector Characteristics
 
+## NAME: NAVEEN A
+## REG.NO:212223060183
+
 ## AIM
 - To study the IV characteristics of fiber optic LED and plot the graph of forward current vs. output optical energy.  
 - To study the photo detector response.
@@ -45,12 +48,7 @@ Key points:
 
 ## MODEL GRAPH
 
-
 ![alt text](<LED Graph.jpeg>)
-
-
-
-
 
 ---
 
